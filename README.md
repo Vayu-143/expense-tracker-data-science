@@ -114,7 +114,7 @@ Expense-Tracker-App/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker-data-science.git
+git clone https://github.com/Vayu-143/expense-tracker-data-science.git
 cd expense-tracker-data-science
 ```
 
@@ -219,6 +219,7 @@ This project demonstrates how data can be used to:
 
 Vayunandan Mishra
 🔗 LinkedIn: https://www.linkedin.com/in/vayunandan-mishra-9590302a2
+
 💻 GitHub: https://github.com/Vayu-143
 
 ---
